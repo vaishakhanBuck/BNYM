@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Mfield key="BaseId" value="Employee Identifier" default_value="" />
+  <Mfield key="LastName" value="Last Name" default_value="" />
+  <Mfield key="FirstName" value="First Name" default_value="" />
+  <Mfield key="Address1" value="Home Address 1" default_value="" />
+  <Mfield key="Address2" value="Home Address 2" default_value="" />
+  <Mfield key="City" value="Home City" default_value="" />
+  <Mfield key="State" value="Home State/Province" default_value="" />
+  <Mfield key="Postal_Code" value="Home Postal Code" default_value="" />
+  <Mfield key="CountryCode" value="Home Country" default_value="" />
+  <Mfield key="Email" value="Work Email" default_value="" />
+  <Mfield key="PASSWORD" value="" default_value="~RYZ_PASSWULS8~" />
+  <Mfield key="SERVICE_ID" value="" default_value="13~25~104" />
+  <Mfield key="CHALLENGE_QUESTION" value="" default_value="PCODE PROV DOB YYYY-MM-DD" />
+  <Mfield key="CHALLENGE_RESPONSE" value="" default_value="" />
+  <Mfield key="SYSTEM_ID" value="" default_value="2" />
+  <Mfield key="SECURITY_GROUP_ID" value="" default_value="1" />
+  <Mfield key="ACCESS_CONTROL_GROUP" value="" default_value="1" />
+  <Mfield key="USER_ID" value="Employee Identifier" default_value="" />
+  <Mfield key="LANGUAGE_ID" value="" default_value="1" />
+
+  <Pfield key="baseId" value="Employee Identifier" />
+  <Pfield key="1" value="SSN" />
+  <Pfield key="2" value="Employee Identifier" />
+  <Pfield key="3" value="Last Name" />
+  <Pfield key="4" value="First Name" />
+  <Pfield key="5" value="Date of Birth" />
+  <Pfield key="6" value="Gender" />
+  <Pfield key="7" value="Employee Status" />
+  <Pfield key="8" value="Latest Hire Date" />
+  <Pfield key="9" value="Home Address 1" />
+  <Pfield key="10" value="Home Address 2" />
+  <Pfield key="11" value="Home City" />
+  <Pfield key="12" value="Home State/Province" />
+  <Pfield key="13" value="Home Postal Code" />
+  <Pfield key="14" value="Home Country" />
+  <Pfield key="15" value="Plan Indicator" />
+  <Pfield key="16" value="Retiree Pension Eligibility" />
+
+
+  <settings key="dateFormat" value="yyyyMMdd" default_value="D/M/YYYY"/>
+  <settings key="outdateFormat" value="yyyy/MM/dd" default_value="D/M/YYYY"/>
+</root>

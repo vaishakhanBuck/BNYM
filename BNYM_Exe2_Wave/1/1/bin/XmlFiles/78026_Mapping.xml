@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Bfield key="BaseId" value="Employee ID" default_value="" />
+  <Bfield key="LastName" value="Legal Name" default_value="" />
+  <Bfield key="FirstName" value="Legal Name" default_value="" />
+  <Bfield key="Address1" value="Primary Home Address Line 1" default_value="Addr1" />
+  <Bfield key="Address2" value="Primary Home Address Line" default_value="Addr2" />
+  <Bfield key="City" value="" default_value="Tor" />
+  <Bfield key="State" value="" default_value="ON" />
+  <Bfield key="Postal_Code" value="" default_value="LJ5 2N7" />
+  <Bfield key="CountryCode" value="" default_value="CAN" />
+  <Bfield key="Email" value="" default_value="jiji.thomas@buck.com" />
+  <Bfield key="PASSWORD" value="" default_value="~RYZ_PASSWULS8~" />
+  <Bfield key="SERVICE_ID" value="" default_value="13~25~104" />
+  <Bfield key="CHALLENGE_QUESTION" value="" default_value="PCODE PROV DOB YYYY-MM-DD" />
+  <Bfield key="CHALLENGE_RESPONSE" value="" default_value="" />
+  <Bfield key="SYSTEM_ID" value="" default_value="2" />
+  <Bfield key="SECURITY_GROUP_ID" value="" default_value="1" />
+  <Bfield key="ACCESS_CONTROL_GROUP" value="" default_value="1" />
+  <Bfield key="USER_ID" value="Employee ID" default_value="" />
+  <Bfield key="LANGUAGE_ID" value="" default_value="1" />
+  
+  
+  <MLfield key="baseId" value="Employee ID" />
+  <MLfield key="1" value="Employee ID" />  <!--Employee ID-->
+  <!--<MLfield key="3" value="SSN" />--><!--SSN-->
+  <!--<MLfield key="4" value="InternalId" />--><!--Internal ID-->
+  <MLfield key="5" value="Legal Name" /><!--First Name-->
+  <MLfield key="6" value="Legal Name" /><!--Last Name-->
+  <!--<MLfield key="7" value="MiddleName" />--><!--Middle Name-->
+  <MLfield key="9" value="Date of Birth" /><!--Location ID-->
+  <!--<MLfield key="10" value="RetirementDate" />--><!--Retirement Date-->
+  <MLfield key="11" value="Retirement Eligibility Date" /><!--Retirement Number-->
+  <!--<MLfield key="13" value="" />--><!--Address 1--><!--
+  <MLfield key="14" value="" />--><!--Address 2--><!--
+  <MLfield key="15" value="" />--><!--City--><!--
+  <MLfield key="16" value="" />--><!--State--><!--
+  <MLfield key="17" value="" />--><!--Zip-->
+  
+  <!--<MLfield key="18" value="Country" />--><!--Country--><!--
+  
+  --><!--<MLfield key="19" value="" />--><!--Email--><!--
+  <MLfield key="20" value="SpousalFirstName" />--><!--Spouse First Name--><!--
+  <MLfield key="21" value="SpousalLastName" />--><!--Spouse Last  Name--><!--
+  <MLfield key="22" value="SpousalMiddleName" />--><!--Spouse Middle  Name--><!--
+  <MLfield key="23" value="SpousalSSN" />--><!--Spouse SSN--><!--
+  <MLfield key="24" value="BeneficiaryUSSID" />--><!--Beneficiary USSID-->
+
+  <!--<settings key="dateFormat" value="yyyyMMdd" default_value="D/M/YYYY"/>-->
+  <settings key="dateFormat" value="M/d/yyyy" default_value=""/>
+  <settings key="outdateFormat" value="MM/DD/YYYY" default_value=""/>
+</root> 

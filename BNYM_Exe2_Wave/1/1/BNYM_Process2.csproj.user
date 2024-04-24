@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>jn=37010376%3bif="C:\Users\40000689\OneDrive - Buck Global LLC\Desktop\work\input_files\sample_files\Processing SRA Template - Ravi CSV.csv"%3blf="C:\Users\40000689\OneDrive - Buck Global LLC\Desktop\work\logs\WaveFileLoadlog_09082023.txt"%3blf2="C:\Users\40000689\OneDrive - Buck Global LLC\Desktop\work\logs\09082023.txt"%3benv="u"</StartArguments>
+  </PropertyGroup>
+</Project>

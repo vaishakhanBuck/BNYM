@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Bfield key="SEGMENT" value="SEGMENT" default_value="" />
+  <Bfield key="BUD" value="BUD" default_value="" />
+  <Bfield key="BUD1" value="BUD1" default_value="" />
+  <Bfield key="Last_Name" value="Last Name" default_value="" />
+  <Bfield key="First_Name" value="First Name" default_value="" />
+  <Bfield key="EMPLOYEE_ID" value="EMPLOYEE ID" default_value="" />
+  <Bfield key="Job_Title" value="Job Title" default_value="" />
+  <Bfield key="GRADE_LEVEL" value="GRADE LEVEL" default_value="" />
+  <Bfield key="BIRTH_DATE" value="BIRTH DATE" default_value="" />
+  <Bfield key="Noti_Date" value="Noti Date" default_value="" />
+  <Bfield key="Disp_Sep_Eff_Date" value="Disp or Separation Eff Date" default_value="" />
+  
+  
+  <MLfield key="baseId" value="Employee ID" />
+  <MLfield key="1" value="Employee ID" />  <!--Employee ID-->
+  <MLfield key="3" value="SSN" /><!--SSN-->
+  <MLfield key="4" value="InternalId" /><!--Internal ID-->
+  <MLfield key="5" value="Legal Name" /><!--First Name-->
+  <MLfield key="6" value="Legal Name" /><!--Last Name-->
+  <MLfield key="7" value="MiddleName" /><!--Middle Name-->
+  <MLfield key="9" value="LocationID" /><!--Location ID-->
+  <MLfield key="10" value="RetirementDate" /><!--Retirement Date-->
+  <MLfield key="11" value="RetirementNumber" /><!--Retirement Number-->
+  <!--<MLfield key="13" value="" />--><!--Address 1--><!--
+  <MLfield key="14" value="" />--><!--Address 2--><!--
+  <MLfield key="15" value="" />--><!--City--><!--
+  <MLfield key="16" value="" />--><!--State--><!--
+  <MLfield key="17" value="" />--><!--Zip-->
+  
+  <MLfield key="18" value="Country" /><!--Country-->
+  
+  <!--<MLfield key="19" value="" />--><!--Email-->
+  <MLfield key="20" value="SpousalFirstName" /><!--Spouse First Name-->
+  <MLfield key="21" value="SpousalLastName" /><!--Spouse Last  Name-->
+  <MLfield key="22" value="SpousalMiddleName" /><!--Spouse Middle  Name-->
+  <MLfield key="23" value="SpousalSSN" /><!--Spouse SSN-->
+  <MLfield key="24" value="BeneficiaryUSSID" /><!--Beneficiary USSID-->
+
+  <!--<settings key="dateFormat" value="yyyyMMdd" default_value="D/M/YYYY"/>-->
+  <settings key="dateFormat" value="M/d/yyyy h:mm:ss tt" default_value="D/M/YYYY"/>
+  <settings key="outdateFormat" value="yyyy/MM/dd" default_value="D/M/YYYY"/>
+</root> 
